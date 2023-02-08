@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 | sort -df | xargs -n1 printf "%s, " | sed 's/, $/\n/'
+ls -a | sort -k1,1V | awk -vORS=, '{if(NF)print;else printf "\n"}' | sed 's/^.//./;s//$//;s/,$/\n/'
