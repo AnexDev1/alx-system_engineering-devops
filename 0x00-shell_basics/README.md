@@ -1,1 +1,1 @@
-0-current_working_directory - This script prints the absolute path name of the current working directory. The output is achieved by using the pwd command, which stands for print working directory.
+1-listit - This script displays the contents list of the current directory. The output is achieved by using the ls command, which stands for list. The ls command lists the files and directories in the current working directory by default.
