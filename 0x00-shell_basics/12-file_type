@@ -1,0 +1,4 @@
+#!/bin/bash
+file_path = "/tmp/iamfile"
+file_type=$(file "$file_path")
+echo "$file_path: $file_type"
