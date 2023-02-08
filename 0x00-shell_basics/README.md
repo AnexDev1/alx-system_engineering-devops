@@ -1,1 +1,1 @@
-1-listit - This script displays the contents list of the current directory. The output is achieved by using the ls command, which stands for list. The ls command lists the files and directories in the current working directory by default.
+2-bring_me_home - This script changes the current working directory to the user's home directory. The change of directory is achieved by using the cd command followed by the tilde character ~, which is an alias for the home directory of the current user.
