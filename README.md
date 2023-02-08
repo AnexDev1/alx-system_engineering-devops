@@ -1,0 +1,1 @@
+This repository contains scripts for shell basics, as part of the System Engineering and DevOps curriculum at Holberton School. Each script is short and covers a specific aspect of shell usage, such as displaying the current working directory.
