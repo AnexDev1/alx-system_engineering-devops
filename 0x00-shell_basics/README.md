@@ -1,1 +1,1 @@
-2-bring_me_home - This script changes the current working directory to the user's home directory. The change of directory is achieved by using the cd command followed by the tilde character ~, which is an alias for the home directory of the current user.
+3-listfiles - This script displays the contents of the current working directory in a long format. The output is achieved by using the ls command with the -l option, which stands for long and provides detailed information about each file or directory, including its permissions, owner, size, and timestamps.
